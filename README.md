@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-End-Medical-Chatbot
 
 ## Steps to run the project
@@ -58,3 +59,6 @@ open up localhost:
 - Meta Llama2
 - Pinecone
 - AWS
+=======
+# End-to-End-Medical-Chatbot-Using-Llama2
+>>>>>>> 416dfa26920d3a576018b0bbc5b20ab90aa9a2b0
